@@ -1,0 +1,2 @@
+rootProject.name='ifiag12'
+include ':app'
